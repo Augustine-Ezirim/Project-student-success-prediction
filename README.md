@@ -1,1 +1,1 @@
-# Project-student success prediction
+# Project - student success prediction
